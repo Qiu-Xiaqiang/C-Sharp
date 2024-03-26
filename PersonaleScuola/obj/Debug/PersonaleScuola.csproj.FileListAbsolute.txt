@@ -1,0 +1,7 @@
+C:\C-Sharp\PersonaleScuola\bin\Debug\PersonaleScuola.exe.config
+C:\C-Sharp\PersonaleScuola\bin\Debug\PersonaleScuola.exe
+C:\C-Sharp\PersonaleScuola\bin\Debug\PersonaleScuola.pdb
+C:\C-Sharp\PersonaleScuola\obj\Debug\PersonaleScuola.csproj.AssemblyReference.cache
+C:\C-Sharp\PersonaleScuola\obj\Debug\PersonaleScuola.csproj.CoreCompileInputs.cache
+C:\C-Sharp\PersonaleScuola\obj\Debug\PersonaleScuola.exe
+C:\C-Sharp\PersonaleScuola\obj\Debug\PersonaleScuola.pdb
