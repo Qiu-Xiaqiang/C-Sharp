@@ -1,0 +1,8 @@
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\bin\Debug\PolimorfismoIntroduzione.exe.config
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\bin\Debug\PolimorfismoIntroduzione.exe
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\bin\Debug\PolimorfismoIntroduzione.pdb
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\obj\Debug\PolimorfismoIntroduzione.csproj.AssemblyReference.cache
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\obj\Debug\PolimorfismoIntroduzione.csproj.SuggestedBindingRedirects.cache
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\obj\Debug\PolimorfismoIntroduzione.csproj.CoreCompileInputs.cache
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\obj\Debug\PolimorfismoIntroduzione.exe
+E:\Programmazione OOP\PolimorfismoIntroduzione\PolimorfismoIntroduzione\obj\Debug\PolimorfismoIntroduzione.pdb
