@@ -1,0 +1,15 @@
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\bin\Debug\FigureGeometriche.exe.config
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\bin\Debug\FigureGeometriche.exe
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\bin\Debug\FigureGeometriche.pdb
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.csproj.AssemblyReference.cache
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.csproj.SuggestedBindingRedirects.cache
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.csproj.CoreCompileInputs.cache
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.exe
+E:\Programmazione OOP\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.pdb
+C:\Users\studente\Downloads\FigureGeometriche\FigureGeometriche\bin\Debug\FigureGeometriche.exe.config
+C:\Users\studente\Downloads\FigureGeometriche\FigureGeometriche\bin\Debug\FigureGeometriche.exe
+C:\Users\studente\Downloads\FigureGeometriche\FigureGeometriche\bin\Debug\FigureGeometriche.pdb
+C:\Users\studente\Downloads\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.csproj.AssemblyReference.cache
+C:\Users\studente\Downloads\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\studente\Downloads\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.exe
+C:\Users\studente\Downloads\FigureGeometriche\FigureGeometriche\obj\Debug\FigureGeometriche.pdb
