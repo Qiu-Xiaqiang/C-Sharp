@@ -1,0 +1,16 @@
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\bin\Debug\PolimorfismoNave.exe.config
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\bin\Debug\PolimorfismoNave.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\bin\Debug\PolimorfismoNave.pdb
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\obj\Debug\PolimorfismoNave.csproj.AssemblyReference.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\obj\Debug\PolimorfismoNave.csproj.SuggestedBindingRedirects.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\obj\Debug\PolimorfismoNave.csproj.CoreCompileInputs.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\obj\Debug\PolimorfismoNave.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PolimorfismoNave\obj\Debug\PolimorfismoNave.pdb
+E:\InformaticaScuola\PolimorfismoNave\bin\Debug\PolimorfismoNave.exe.config
+E:\InformaticaScuola\PolimorfismoNave\bin\Debug\PolimorfismoNave.exe
+E:\InformaticaScuola\PolimorfismoNave\bin\Debug\PolimorfismoNave.pdb
+E:\InformaticaScuola\PolimorfismoNave\obj\Debug\PolimorfismoNave.csproj.AssemblyReference.cache
+E:\InformaticaScuola\PolimorfismoNave\obj\Debug\PolimorfismoNave.csproj.SuggestedBindingRedirects.cache
+E:\InformaticaScuola\PolimorfismoNave\obj\Debug\PolimorfismoNave.csproj.CoreCompileInputs.cache
+E:\InformaticaScuola\PolimorfismoNave\obj\Debug\PolimorfismoNave.exe
+E:\InformaticaScuola\PolimorfismoNave\obj\Debug\PolimorfismoNave.pdb
