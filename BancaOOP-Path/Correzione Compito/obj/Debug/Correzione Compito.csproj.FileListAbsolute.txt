@@ -1,0 +1,7 @@
+C:\Users\studente\Desktop\Correzione Compito\Correzione Compito\bin\Debug\Correzione Compito.exe.config
+C:\Users\studente\Desktop\Correzione Compito\Correzione Compito\bin\Debug\Correzione Compito.exe
+C:\Users\studente\Desktop\Correzione Compito\Correzione Compito\bin\Debug\Correzione Compito.pdb
+C:\Users\studente\Desktop\Correzione Compito\Correzione Compito\obj\Debug\Correzione Compito.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\Correzione Compito\Correzione Compito\obj\Debug\Correzione Compito.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\Correzione Compito\Correzione Compito\obj\Debug\Correzione Compito.exe
+C:\Users\studente\Desktop\Correzione Compito\Correzione Compito\obj\Debug\Correzione Compito.pdb
