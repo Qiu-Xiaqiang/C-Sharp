@@ -1,0 +1,8 @@
+E:\InformaticaScuola\Clinica\Clinica\bin\Debug\Clinica.exe.config
+E:\InformaticaScuola\Clinica\Clinica\bin\Debug\Clinica.exe
+E:\InformaticaScuola\Clinica\Clinica\bin\Debug\Clinica.pdb
+E:\InformaticaScuola\Clinica\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+E:\InformaticaScuola\Clinica\Clinica\obj\Debug\Clinica.csproj.SuggestedBindingRedirects.cache
+E:\InformaticaScuola\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+E:\InformaticaScuola\Clinica\Clinica\obj\Debug\Clinica.exe
+E:\InformaticaScuola\Clinica\Clinica\obj\Debug\Clinica.pdb
