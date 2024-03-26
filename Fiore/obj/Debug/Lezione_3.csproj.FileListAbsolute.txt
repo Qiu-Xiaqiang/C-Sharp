@@ -1,0 +1,7 @@
+F:\Nuova cartella\Lezione_3\Lezione_3\bin\Debug\Lezione_3.exe.config
+F:\Nuova cartella\Lezione_3\Lezione_3\bin\Debug\Lezione_3.exe
+F:\Nuova cartella\Lezione_3\Lezione_3\bin\Debug\Lezione_3.pdb
+F:\Nuova cartella\Lezione_3\Lezione_3\obj\Debug\Lezione_3.csproj.AssemblyReference.cache
+F:\Nuova cartella\Lezione_3\Lezione_3\obj\Debug\Lezione_3.csproj.CoreCompileInputs.cache
+F:\Nuova cartella\Lezione_3\Lezione_3\obj\Debug\Lezione_3.exe
+F:\Nuova cartella\Lezione_3\Lezione_3\obj\Debug\Lezione_3.pdb
