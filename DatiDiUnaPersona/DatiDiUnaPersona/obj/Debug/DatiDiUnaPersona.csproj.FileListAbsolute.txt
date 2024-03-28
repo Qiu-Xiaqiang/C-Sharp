@@ -1,0 +1,8 @@
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\bin\Debug\DatiDiUnaPersona.exe.config
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\bin\Debug\DatiDiUnaPersona.exe
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\bin\Debug\DatiDiUnaPersona.pdb
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\obj\Debug\DatiDiUnaPersona.csproj.AssemblyReference.cache
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\obj\Debug\DatiDiUnaPersona.csproj.SuggestedBindingRedirects.cache
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\obj\Debug\DatiDiUnaPersona.csproj.CoreCompileInputs.cache
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\obj\Debug\DatiDiUnaPersona.exe
+E:\Programmazione OOP\DatiDiUnaPersona\DatiDiUnaPersona\obj\Debug\DatiDiUnaPersona.pdb
