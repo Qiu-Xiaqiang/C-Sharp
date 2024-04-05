@@ -1,0 +1,16 @@
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\bin\Debug\PreVerifica.exe.config
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\bin\Debug\PreVerifica.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\bin\Debug\PreVerifica.pdb
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\obj\Debug\PreVerifica.csproj.AssemblyReference.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\obj\Debug\PreVerifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\obj\Debug\PreVerifica.csproj.CoreCompileInputs.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\obj\Debug\PreVerifica.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerifica\obj\Debug\PreVerifica.pdb
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\obj\Debug\PreVerifica.csproj.AssemblyReference.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\obj\Debug\PreVerifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\obj\Debug\PreVerifica.csproj.CoreCompileInputs.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\obj\Debug\PreVerifica.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\obj\Debug\PreVerifica.pdb
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\bin\Debug\PreVerifica.exe.config
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\bin\Debug\PreVerifica.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\PreVerificaAbstract\bin\Debug\PreVerifica.pdb
