@@ -1,0 +1,8 @@
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\bin\Debug\ClasseAstratta.exe.config
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\bin\Debug\ClasseAstratta.exe
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\bin\Debug\ClasseAstratta.pdb
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\obj\Debug\PolimorfismoBase.csproj.AssemblyReference.cache
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\obj\Debug\PolimorfismoBase.csproj.SuggestedBindingRedirects.cache
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\obj\Debug\PolimorfismoBase.csproj.CoreCompileInputs.cache
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\obj\Debug\ClasseAstratta.exe
+E:\Programmazione OOP\ClasseAstratta\ClasseAstratta\obj\Debug\ClasseAstratta.pdb
