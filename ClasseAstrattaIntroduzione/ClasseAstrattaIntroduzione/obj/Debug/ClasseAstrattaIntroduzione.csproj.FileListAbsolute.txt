@@ -1,0 +1,8 @@
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\bin\Debug\ClasseAstrattaIntroduzione.exe.config
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\bin\Debug\ClasseAstrattaIntroduzione.exe
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\bin\Debug\ClasseAstrattaIntroduzione.pdb
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\obj\Debug\ClasseAstrattaIntroduzione.csproj.AssemblyReference.cache
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\obj\Debug\ClasseAstrattaIntroduzione.csproj.SuggestedBindingRedirects.cache
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\obj\Debug\ClasseAstrattaIntroduzione.csproj.CoreCompileInputs.cache
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\obj\Debug\ClasseAstrattaIntroduzione.exe
+E:\Programmazione OOP\ClasseAstrattaIntroduzione\ClasseAstrattaIntroduzione\obj\Debug\ClasseAstrattaIntroduzione.pdb
