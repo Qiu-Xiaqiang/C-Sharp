@@ -1,8 +1,0 @@
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\bin\Debug\OverrideMetodi.exe.config
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\bin\Debug\OverrideMetodi.exe
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\bin\Debug\OverrideMetodi.pdb
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\obj\Debug\OverrideMetodi.csproj.AssemblyReference.cache
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\obj\Debug\OverrideMetodi.csproj.SuggestedBindingRedirects.cache
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\obj\Debug\OverrideMetodi.csproj.CoreCompileInputs.cache
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\obj\Debug\OverrideMetodi.exe
-C:\Users\Smart.inf\Desktop\IntroduzioneOOP\OverrideMetodi\obj\Debug\OverrideMetodi.pdb
