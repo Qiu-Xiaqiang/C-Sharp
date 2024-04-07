@@ -1,0 +1,8 @@
+E:\Programmazione OOP\Operatori\Operatori\bin\Debug\Operatori.exe.config
+E:\Programmazione OOP\Operatori\Operatori\bin\Debug\Operatori.exe
+E:\Programmazione OOP\Operatori\Operatori\bin\Debug\Operatori.pdb
+E:\Programmazione OOP\Operatori\Operatori\obj\Debug\Operatori.csproj.AssemblyReference.cache
+E:\Programmazione OOP\Operatori\Operatori\obj\Debug\Operatori.csproj.SuggestedBindingRedirects.cache
+E:\Programmazione OOP\Operatori\Operatori\obj\Debug\Operatori.csproj.CoreCompileInputs.cache
+E:\Programmazione OOP\Operatori\Operatori\obj\Debug\Operatori.exe
+E:\Programmazione OOP\Operatori\Operatori\obj\Debug\Operatori.pdb
