@@ -1,0 +1,8 @@
+E:\Programmazione OOP\Ripasso\Ripasso\obj\Debug\Ripasso.csproj.AssemblyReference.cache
+E:\Programmazione OOP\Ripasso\Ripasso\obj\Debug\Ripasso.csproj.SuggestedBindingRedirects.cache
+E:\Programmazione OOP\Ripasso\Ripasso\obj\Debug\Ripasso.csproj.CoreCompileInputs.cache
+E:\Programmazione OOP\Ripasso\Ripasso\bin\Debug\Ripasso.exe.config
+E:\Programmazione OOP\Ripasso\Ripasso\bin\Debug\Ripasso.exe
+E:\Programmazione OOP\Ripasso\Ripasso\bin\Debug\Ripasso.pdb
+E:\Programmazione OOP\Ripasso\Ripasso\obj\Debug\Ripasso.exe
+E:\Programmazione OOP\Ripasso\Ripasso\obj\Debug\Ripasso.pdb
