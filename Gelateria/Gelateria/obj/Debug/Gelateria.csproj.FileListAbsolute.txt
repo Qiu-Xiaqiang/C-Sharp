@@ -1,8 +1,0 @@
-E:\Programmazione OOP\Gelateria\Gelateria\bin\Debug\Gelateria.exe.config
-E:\Programmazione OOP\Gelateria\Gelateria\bin\Debug\Gelateria.exe
-E:\Programmazione OOP\Gelateria\Gelateria\bin\Debug\Gelateria.pdb
-E:\Programmazione OOP\Gelateria\Gelateria\obj\Debug\Gelateria.csproj.AssemblyReference.cache
-E:\Programmazione OOP\Gelateria\Gelateria\obj\Debug\Gelateria.csproj.SuggestedBindingRedirects.cache
-E:\Programmazione OOP\Gelateria\Gelateria\obj\Debug\Gelateria.csproj.CoreCompileInputs.cache
-E:\Programmazione OOP\Gelateria\Gelateria\obj\Debug\Gelateria.exe
-E:\Programmazione OOP\Gelateria\Gelateria\obj\Debug\Gelateria.pdb
