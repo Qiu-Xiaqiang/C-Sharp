@@ -1,31 +1,69 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using Aspose.Pdf;
 
-namespace pdfToWord
+namespace ConversioneSottocartelle
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string percorsoP = "C:\\Users\\qiupa\\Downloads\\Filepd.pdf";
-            string percorsoW = "C:\\Users\\qiupa\\Downloads\\documento.docx";
+            string cartellaPrincipale = "C:\\Users\\qiupa\\Downloads\\rfreedommobilitybridge";
+            string cartellaWord = "C:\\Users\\qiupa\\Downloads\\WordConvertito";
+            ConversioneConSottocartelle(cartellaPrincipale, cartellaWord);
+        }
+        static void ConversioneConSottocartelle(string cartellaPrincipale, string cartellaWord)
+        {
             try
             {
-                Document documentoPDF = new Document(percorsoP);
-                DocSaveOptions salvataggio = new DocSaveOptions();//Creo un'istanza di DocSave
-                salvataggio.Format = DocSaveOptions.DocFormat.DocX;//Lo imposto come output il formato in DocX
-                Console.WriteLine("Convertito con successo");
-                documentoPDF.Save(percorsoW, salvataggio);//Alla fine lo salvo in word
+                ConvertiPdfInWord(cartellaPrincipale, cartellaWord);
+                string[] sottocartelle = Directory.GetDirectories(cartellaPrincipale);
+                foreach (string sottocartella in sottocartelle)
+                {
+                    ConversioneConSottocartelle(sottocartella, cartellaWord);
+                }
             }
             catch (Exception e)
             {
-                Console.WriteLine("Errore" + e.Message);
+                Console.WriteLine("Errore: " + e.Message);
             }
-
+        }
+        static void ConvertiPdfInWord(string cartellaPdf, string cartellaWord)
+        {
+            string[] filePDF = Directory.GetFiles(cartellaPdf, "*.pdf");
+            try
+            {
+                if (!Directory.Exists(cartellaWord))
+                {
+                    Directory.CreateDirectory(cartellaWord);
+                }
+                foreach (string x in filePDF)
+                {
+                    try
+                    {
+                        Document documentoPDF = new Document(x);
+                        DocSaveOptions salvataggio = new DocSaveOptions();
+                        salvataggio.Format = DocSaveOptions.DocFormat.DocX;
+                        string nomeFile = Path.GetFileNameWithoutExtension(x);
+                        string percorsoOutput = Path.Combine(cartellaWord, nomeFile + ".docx");
+                        Console.WriteLine($"Convertito con successo: {x} -> {percorsoOutput}");
+                        documentoPDF.Save(percorsoOutput, salvataggio);
+                    }
+                    catch (Exception e2)
+                    {
+                        Console.WriteLine("Errore: " + x + " - " + e2.Message);
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Errore: " + e.Message);
+            }
         }
     }
 }
