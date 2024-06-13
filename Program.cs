@@ -18,7 +18,7 @@ namespace TXT_CSV
             string percorsoCartellaCsv = "C:\\Users\\qiupa\\Downloads\\CSVConvertito";//Inserisco il percorso della cartella convertita in CSV
             if (!Directory.Exists(percorsoCartellaInput))//Verifica esistenza della cartella di input
             {
-                Console.WriteLine("Cartella output insesistente cosa stai facendo");
+                Console.WriteLine("Cartella input insesistente cosa stai facendo");
                 return;
             }
             if (!Directory.Exists(percorsoCartellaTxt))
@@ -29,7 +29,7 @@ namespace TXT_CSV
             {
                 Directory.CreateDirectory(percorsoCartellaCsv);//Creo la cartella di output CSV se non esiste
             }
-            ConvertiPdfInCartella(percorsoCartellaInput, percorsoCartellaTxt, percorsoCartellaCsv);//Passo il metodo e avvien la conversione dei PDF nella cartella principale
+            ConvertiPdfInCartella(percorsoCartellaInput, percorsoCartellaTxt, percorsoCartellaCsv);//Passo il metodo e avviene la conversione dei PDF nella cartella principale
             Console.WriteLine("Si godeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
             Console.ReadLine();
         }
